@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_republika"
+        android:icon="@drawable/ic_republika"
+        android:title="@null" />
+
+    <item
+        android:id="@+id/nav_cnn"
+        android:icon="@drawable/ic_cnn"
+        android:title="@null" />
+
+    <item
+        android:id="@+id/nav_cnbc"
+        android:icon="@drawable/ic_cnbc"
+        android:title="@null" />
+</menu>

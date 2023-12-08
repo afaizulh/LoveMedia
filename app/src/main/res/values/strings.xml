@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoveMedia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="republika">Republika</string>
+    <string name="cnn">CNN</string>
+    <string name="cnbc">CNBC</string>
+    <string name="gambar_berita">Gambar Berita</string>
+    <string name="image_content">image</string>
+</resources>

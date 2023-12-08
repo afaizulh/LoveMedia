@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_republika">
+    <fragment
+        android:id="@+id/nav_republika"
+        android:name="com.faizul.lovemedia.ui.republika.RepublikaFragment"
+        android:label="fragment_republika_terbaru"
+        tools:layout="@layout/fragment_republika" />
+    <fragment
+        android:id="@+id/nav_cnn"
+        android:name="com.faizul.lovemedia.ui.cnn.CnnFragment"
+        android:label="fragment_cnn"
+        tools:layout="@layout/fragment_cnn" />
+    <fragment
+        android:id="@+id/nav_cnbc"
+        android:name="com.faizul.lovemedia.ui.cnbc.CnbcFragment"
+        android:label="fragment_cnbc"
+        tools:layout="@layout/fragment_cnbc" />
+</navigation>
